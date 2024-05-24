@@ -23,7 +23,7 @@ The script organizes files from a source directory into a destination directory,
 dotnet run <sourceDir> <destDir> [--dry-run] [--overwrite] [--config <configFile>]
 ```
 
-- **<<sourceDir>>**: Path to the source directory containing files to organize.
+- ** <sourceDir> **: Path to the source directory containing files to organize.
 - **<destDir>**: Path to the destination directory where files will be organized.
 - **--dry-run**: Optional flag to preview changes without moving files.
 - **--overwrite**: Optional flag to overwrite existing files in the destination directory.
