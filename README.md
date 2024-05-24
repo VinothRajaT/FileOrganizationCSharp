@@ -24,7 +24,7 @@ dotnet run <sourceDir> <destDir> [--dry-run] [--overwrite] [--config <configFile
 ```
 
 - **\<sourceDir>**: Path to the source directory containing files to organize.
-- **<destDir>**: Path to the destination directory where files will be organized.
+- **\<destDir>**: Path to the destination directory where files will be organized.
 - **--dry-run**: Optional flag to preview changes without moving files.
 - **--overwrite**: Optional flag to overwrite existing files in the destination directory.
 - **--config <configFile>**: Optional parameter to specify a configuration file for file types and folders.
@@ -78,3 +78,11 @@ Files have been organized successfully.
 ## Dependencies
 - .NET SDK
 
+## Contributions
+Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss improvements or new features.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+If you have any questions or suggestions, feel free to reach out.
